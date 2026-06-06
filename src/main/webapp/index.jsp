@@ -6,5 +6,6 @@
 <p>Adding my third line to commit it with master branch</p>
 <p>Adding this line through my new branch</p>
 <p>Check</p>
+<p>From branch</p>
 </body>
 </html>
