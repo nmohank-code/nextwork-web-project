@@ -5,7 +5,7 @@ pipeline {
         stage('Clone') {
             steps {
                 echo 'Cloning code from GitHub...'
-                git branch: 'main', url: 'https://github.com/nmohank-code/nextwork-web-project.git'
+                git branch: 'master', url: 'https://github.com/nmohank-code/nextwork-web-project.git'
             }
         }
 
